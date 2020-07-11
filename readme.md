@@ -1,6 +1,6 @@
 #### DEEP LEARNING IS THE FUTURE!!!!
 
-![](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+![](https://media.giphy.com/media/QxSzoprRmyJwtkdi6q/giphy.gif)
 
 
 ### About Me
