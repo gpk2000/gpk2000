@@ -2,7 +2,6 @@
 
 ![](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
----
 
 ### About Me
 - :detective: My name is Pavan and I study Computer Science at Amrita University.
