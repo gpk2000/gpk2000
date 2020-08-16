@@ -17,7 +17,7 @@
 
 - I have immense interest in learning new things about deep learning.
 - I watch anime as a recreational activity :eyes:
-- I also Competitive programming, but i stopped doing it recently because i want to explore new things. Here is my [CodeForces profile](https://codeforces.com/profile/v-O_O-v) :eyes:
+- I also do Competitive programming, but i stopped doing it recently because i want to explore new things. Here is my [CodeForces profile](https://codeforces.com/profile/v-O_O-v) :eyes:
 
 ---
 
