@@ -5,7 +5,6 @@
 
 ### About Me
 - :detective: My name is Pavan and I study Computer Science at Amrita University.
-- 🔭 I’m currently working on Path finding Visualizer GUI app.
 - 🌱 I’m currently learning python, Deep Learning
 - 💬 Ask me about Python, Deep Learning, Linux.
 - 😄 Pronouns: He
