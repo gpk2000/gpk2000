@@ -16,23 +16,22 @@
 
 - I have immense interest in learning new things about deep learning.
 - I watch anime as a recreational activity :eyes:
-- I also do Competitive programming, but i stopped doing it recently because i want to explore new things. Here is my [CodeForces profile](https://codeforces.com/profile/v-O_O-v) :eyes:
+- I also do Competitive programming, but I stopped doing it recently because I want to explore new things. Here is my [CodeForces profile](https://codeforces.com/profile/v-O_O-v) :eyes:
 
 ---
 
 ### TODO's
 
-- :sunglasses: Make some cool projects.
-- :smirk: participate in kaggle competitions
-- :neutral_face: Learn things by searching in stack overflow.
+- Make some cool projects.
+- participate in kaggle competitions
+- Learn deep learning techniques
 
 ---
 
-### Things that are boon for mankind :muscle:
+### Things that are boon for mankind
 
 - StackOverflow
 - Github
 - Coursera
-- CodeForces
 ---
 
