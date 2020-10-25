@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gpk2000)
 
-📊 **This Week I Spent My Time On:**
+📊 **Statistics:**
 <!--START_SECTION:waka-->
 ```text
 Markdown   2 mins          █████████████████████████   100.00 % 
