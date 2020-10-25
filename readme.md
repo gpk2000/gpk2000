@@ -1,11 +1,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gpk2000)
 
+<details>
 📊 **Statistics:**
 <!--START_SECTION:waka-->
 ```text
 Markdown   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+</details>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
