@@ -25,10 +25,3 @@ Markdown   11 mins         █▒░░░░░░░░░░░░░░░�
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </details>
 
-**📝 TODO**
- - [ ] ENV Report
- - [ ] FDS Project
- - [ ] CCNA Youtube (1/57)
- - [ ] C++ (1/23) and then Qt
- - [ ] Learn about Linux
- - [ ] Maybe try learning some Rust
