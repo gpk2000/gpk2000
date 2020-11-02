@@ -28,6 +28,6 @@ Markdown   11 mins         █▒░░░░░░░░░░░░░░░�
 **📝 TODO**
  - [ ] FDS Project
  - [ ] CCNA Youtube (1/57)
- - [ ] C++ and then Qt
+ - [ ] C++ (1/23) and then Qt
  - [ ] Learn about Linux
  - [ ] Maybe try learning some Rust
