@@ -14,15 +14,6 @@ Markdown   11 mins         █▒░░░░░░░░░░░░░░░�
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gpk2000&show_icons=true&&theme=radical&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpk2000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </details>
- 
-**📝 TODO**
- - [ ] FDS Project
- - [ ] CCNA Youtube
- - [ ] C++ and then Qt
- - [ ] Learn about Linux
- - [ ] Maybe try learning some Rust
-
-</details>
 
 <details>
   <summary><b>🕵️‍♂️ Super Secret Music I listen to</b></summary>
@@ -33,3 +24,10 @@ Markdown   11 mins         █▒░░░░░░░░░░░░░░░�
   <summary><b>🙂 Some funny jokes related to programming</b></summary>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </details>
+
+**📝 TODO**
+ - [ ] FDS Project
+ - [ ] CCNA Youtube
+ - [ ] C++ and then Qt
+ - [ ] Learn about Linux
+ - [ ] Maybe try learning some Rust
