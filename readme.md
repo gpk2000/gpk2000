@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gpk2000)
 
-📊 **Statistics:**
+📊 **This week's Statistics:**
 <!--START_SECTION:waka-->
 ```text
 Markdown   9 mins          ████████░░░░░░░░░░░░░░░░░   31.74 % 
