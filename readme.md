@@ -1,26 +1,20 @@
-![](https://visitor-badge.glitch.me/badge?page_id=gpk2000)
+### Hi there 👋, My name is Pavan Kumar
+#### I am a University Student
+I like learning more about Linux and spending my time reading technical books.
 
-📊 **This week's Statistics:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+Skills: Python / C++ / C
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+- 🔭 I’m currently working on my semester examinations 
+- 🌱 I’m currently learning C programming language 
+- 😄 Pronouns: He/Him 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gpk2000&show_icons=true&&theme=radical&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpk2000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</details>
 
-<details>
-  <summary><b>🕵️‍♂️ Super Secret Music I listen to</b></summary>
-  <img height="150em" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=slzb129m72yeufhkw43ieulup&cover_image=false&theme=default" />
-</details>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gpk2000)  
 
-<details>
-  <summary><b>🙂 Some funny jokes related to programming</b></summary>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-</details>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gpk2000)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gpk2000&show_icons=true&count_private=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpk2000)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/gpk2000)  
