@@ -8,13 +8,11 @@ Skills: Python / C++ / C
 - 🌱 I’m currently learning C programming language 
 - 😄 Pronouns: He/Him 
 
+![Profile views](https://gpvc.arturio.dev/gpk2000)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gpk2000)  
+![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Kernel-5.9.14-zen1-1-zen?style=flat&logo=Linux) ![](https://img.shields.io/badge/Packages-762-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gpk2000)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gpk2000&show_icons=true&count_private=true)  
+![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpk2000&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpk2000)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/gpk2000)  
+  
