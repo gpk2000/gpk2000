@@ -10,7 +10,7 @@ Skills: Python / C++ / C
 
 ![Profile views](https://gpvc.arturio.dev/gpk2000)
 
-![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Packages-781-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
+![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Packages-894-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
 
 
 ![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpk2000&show_icons=true&theme=radical)
