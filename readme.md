@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Pavan Kumar
+### Hi there 👋, My name is Pavan
 #### I am a University Student
 I like learning more about Linux and spending my time reading technical books.
 
