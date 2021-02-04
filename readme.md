@@ -5,7 +5,7 @@ I like learning more about Linux and spending my time reading technical books.
 Skills: Python / C++ / C
 
 - 🔭 I’m currently working on my semester examinations 
-- 🌱 I’m currently learning C programming language 
+- 🌱 I’m currently learning C++
 - 😄 Pronouns: He/Him 
 
 ![Profile views](https://gpvc.arturio.dev/gpk2000)
