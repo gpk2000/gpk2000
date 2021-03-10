@@ -4,8 +4,8 @@ I like learning more about Linux and spending my time reading technical books.
 
 Skills: Python / C++ / C
 
-- 🔭 I’m currently working on my semester examinations 
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working CSAPP, SICP 
+- 🌱 I’m currently doing tycs
 - 😄 Pronouns: He/Him 
 
 ![Profile views](https://gpvc.arturio.dev/gpk2000)
