@@ -4,7 +4,7 @@ I like learning more about Linux and spending my time reading technical books.
 
 Skills: Python / C++ / C
 
-- 🔭 I’m currently working CSAPP, SICP 
+- 🔭 I’m currently working CSAPP, SICP and learning Rust
 - 🌱 I’m currently doing tycs
 - 😄 Pronouns: He/Him 
 
