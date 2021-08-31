@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">A passionate nerd</h3>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpk2000&label=Profile%20views&color=0e75b6&style=flat" alt="gpk2000" /> </p>
 
-- 🌱 I’m currently learning **golang, sicp and shell scripting**
+- 🌱 I’m currently learning **html & css**
 
-- ⚡ Fun fact **I don't find facts funny.**
+- ⚡ Fun fact **I deleted 70 repos on 31/08/2021**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
