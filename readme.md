@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpk2000&label=Profile%20views&color=0e75b6&style=flat" alt="gpk2000" /> </p>
-
 - 🌱 I’m currently learning **html & css**
 
 - ⚡ Fun fact **I deleted 70 repos on 31/08/2021**
